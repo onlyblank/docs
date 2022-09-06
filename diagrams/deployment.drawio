@@ -1,103 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T06:42:22.638Z" agent="5.0 (Macintosh)" etag="zSrNcGBNFH_yB1Aje9nF" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T06:44:20.073Z" agent="5.0 (Macintosh)" etag="SsROSDLUVA6eU9QqOLIB" version="20.2.8" type="github">
   <diagram id="qdp0wClj4DK7X6VAinlJ" name="Page-1">
     <mxGraphModel dx="1694" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-91" value="&lt;b&gt;Virtual Machine&lt;/b&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-91" value="&lt;b&gt;Virtual Machine&lt;/b&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="442" y="150" width="880" height="1086" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-39" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="757" y="910" width="250" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-40" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Docker container&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;vkontakte bot&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="FvaH8JaBpIbHw_S8jCiK-39" vertex="1">
-          <mxGeometry width="250" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-41" value="&lt;div align=&quot;center&quot;&gt;Node,js&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="FvaH8JaBpIbHw_S8jCiK-39" vertex="1">
-          <mxGeometry x="41.67000000000007" y="200" width="168.33" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-42" value="&lt;div align=&quot;center&quot;&gt;Typescript&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="FvaH8JaBpIbHw_S8jCiK-39" vertex="1">
-          <mxGeometry x="41.67000000000007" y="160" width="168.33" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-43" value="vkio" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="FvaH8JaBpIbHw_S8jCiK-39" vertex="1">
-          <mxGeometry x="41.67000000000007" y="120" width="168.33" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-52" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-52" value="" style="group;rounded=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="480" y="550" width="490" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-45" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Docker container&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;webshot&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="FvaH8JaBpIbHw_S8jCiK-52" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-45" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Docker container&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;webshot&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="FvaH8JaBpIbHw_S8jCiK-52" vertex="1">
           <mxGeometry width="250" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-46" value="&lt;div align=&quot;center&quot;&gt;Node,js&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;" parent="FvaH8JaBpIbHw_S8jCiK-52" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-46" value="&lt;div align=&quot;center&quot;&gt;Node,js&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;rounded=0;" parent="FvaH8JaBpIbHw_S8jCiK-52" vertex="1">
           <mxGeometry x="41.67000000000007" y="200" width="168.33" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-47" value="&lt;div align=&quot;center&quot;&gt;Typescript&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;" parent="FvaH8JaBpIbHw_S8jCiK-52" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-47" value="&lt;div align=&quot;center&quot;&gt;Typescript&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;rounded=0;" parent="FvaH8JaBpIbHw_S8jCiK-52" vertex="1">
           <mxGeometry x="41.67000000000007" y="160" width="168.33" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-48" value="Nest.js" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;" parent="FvaH8JaBpIbHw_S8jCiK-52" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-48" value="Nest.js" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;rounded=0;" parent="FvaH8JaBpIbHw_S8jCiK-52" vertex="1">
           <mxGeometry x="41.67000000000007" y="120" width="168.33" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-49" value="puppeteer" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;" parent="FvaH8JaBpIbHw_S8jCiK-52" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-49" value="puppeteer" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;rounded=0;" parent="FvaH8JaBpIbHw_S8jCiK-52" vertex="1">
           <mxGeometry x="41.67000000000007" y="80" width="168.33" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-53" value="" style="group;" parent="1" vertex="1" connectable="0">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-53" value="" style="group;rounded=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="760" y="190" width="250" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-54" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Docker container&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;database&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="FvaH8JaBpIbHw_S8jCiK-53" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-54" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Docker container&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;database&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="FvaH8JaBpIbHw_S8jCiK-53" vertex="1">
           <mxGeometry width="250" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-55" value="Postgresql" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;" parent="FvaH8JaBpIbHw_S8jCiK-53" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-55" value="Postgresql" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;rounded=0;" parent="FvaH8JaBpIbHw_S8jCiK-53" vertex="1">
           <mxGeometry x="41.67000000000007" y="200" width="168.33" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-67" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-67" value="" style="group;rounded=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1040" y="910" width="250" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-24" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Docker container&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;telegram bot&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="FvaH8JaBpIbHw_S8jCiK-67" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-24" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Docker container&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;telegram bot&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="FvaH8JaBpIbHw_S8jCiK-67" vertex="1">
           <mxGeometry width="250" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-25" value="&lt;div align=&quot;center&quot;&gt;Node,js&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;" parent="FvaH8JaBpIbHw_S8jCiK-67" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-25" value="&lt;div align=&quot;center&quot;&gt;Node,js&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;rounded=0;" parent="FvaH8JaBpIbHw_S8jCiK-67" vertex="1">
           <mxGeometry x="41.67000000000007" y="200" width="168.33" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-26" value="&lt;div align=&quot;center&quot;&gt;Typescript&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;" parent="FvaH8JaBpIbHw_S8jCiK-67" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-26" value="&lt;div align=&quot;center&quot;&gt;Typescript&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;rounded=0;" parent="FvaH8JaBpIbHw_S8jCiK-67" vertex="1">
           <mxGeometry x="41.67000000000007" y="160" width="168.33" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-27" value="node-telegram-bot-api" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;" parent="FvaH8JaBpIbHw_S8jCiK-67" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-27" value="node-telegram-bot-api" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;container=0;rounded=0;" parent="FvaH8JaBpIbHw_S8jCiK-67" vertex="1">
           <mxGeometry x="41.67000000000007" y="120" width="168.33" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-73" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-73" value="" style="group;rounded=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="480" y="910" width="250" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-74" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Docker container&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;frontend&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="FvaH8JaBpIbHw_S8jCiK-73" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-74" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Docker container&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;frontend&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="FvaH8JaBpIbHw_S8jCiK-73" vertex="1">
           <mxGeometry width="250" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-75" value="Typescript" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="FvaH8JaBpIbHw_S8jCiK-73" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-75" value="Typescript" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;" parent="FvaH8JaBpIbHw_S8jCiK-73" vertex="1">
           <mxGeometry x="41.67000000000007" y="200" width="168.33" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-76" value="React" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="FvaH8JaBpIbHw_S8jCiK-73" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-76" value="React" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;" parent="FvaH8JaBpIbHw_S8jCiK-73" vertex="1">
           <mxGeometry x="41.67000000000007" y="160" width="168.33" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FODAeYh0XmRj7aYC-evt-1" value="Task&lt;br&gt;rendering" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="FvaH8JaBpIbHw_S8jCiK-73">
+        <mxCell id="FODAeYh0XmRj7aYC-evt-1" value="Task&lt;br&gt;rendering" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;" vertex="1" parent="FvaH8JaBpIbHw_S8jCiK-73">
           <mxGeometry x="41.67" y="120" width="88.33" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FODAeYh0XmRj7aYC-evt-2" value="UI" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="FvaH8JaBpIbHw_S8jCiK-73">
+        <mxCell id="FODAeYh0XmRj7aYC-evt-2" value="UI" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;" vertex="1" parent="FvaH8JaBpIbHw_S8jCiK-73">
           <mxGeometry x="120" y="120" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FODAeYh0XmRj7aYC-evt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=290;exitDy=130;exitPerimeter=0;entryX=-0.007;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FvaH8JaBpIbHw_S8jCiK-45" target="FvaH8JaBpIbHw_S8jCiK-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FODAeYh0XmRj7aYC-evt-11" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="FODAeYh0XmRj7aYC-evt-11" value="" style="group;rounded=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="760" y="551" width="250" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-60" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Docker container&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;backend&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="FODAeYh0XmRj7aYC-evt-11" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-60" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Docker container&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;backend&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="FODAeYh0XmRj7aYC-evt-11" vertex="1">
           <mxGeometry width="250" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-61" value="&lt;div align=&quot;center&quot;&gt;Node,js&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="FODAeYh0XmRj7aYC-evt-11" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-61" value="&lt;div align=&quot;center&quot;&gt;Node,js&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;" parent="FODAeYh0XmRj7aYC-evt-11" vertex="1">
           <mxGeometry x="41.67000000000007" y="200" width="168.33" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-62" value="&lt;div align=&quot;center&quot;&gt;Typescript&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="FODAeYh0XmRj7aYC-evt-11" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-62" value="&lt;div align=&quot;center&quot;&gt;Typescript&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;" parent="FODAeYh0XmRj7aYC-evt-11" vertex="1">
           <mxGeometry x="41.67000000000007" y="160" width="168.33" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FvaH8JaBpIbHw_S8jCiK-63" value="strapi" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" parent="FODAeYh0XmRj7aYC-evt-11" vertex="1">
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-63" value="strapi" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;" parent="FODAeYh0XmRj7aYC-evt-11" vertex="1">
           <mxGeometry x="41.67000000000007" y="120" width="168.33" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FODAeYh0XmRj7aYC-evt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=120;exitPerimeter=0;entryX=1.007;entryY=0.492;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FvaH8JaBpIbHw_S8jCiK-40" target="FvaH8JaBpIbHw_S8jCiK-60">
@@ -117,8 +102,9 @@
         <mxCell id="FODAeYh0XmRj7aYC-evt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=120;exitPerimeter=0;entryX=1;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FvaH8JaBpIbHw_S8jCiK-60" target="FvaH8JaBpIbHw_S8jCiK-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FODAeYh0XmRj7aYC-evt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=120;exitPerimeter=0;entryX=0.428;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FvaH8JaBpIbHw_S8jCiK-24" target="FvaH8JaBpIbHw_S8jCiK-54">
+        <mxCell id="FODAeYh0XmRj7aYC-evt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.428;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FvaH8JaBpIbHw_S8jCiK-54">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="910" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="1240" y="910" />
               <mxPoint x="1240" y="314" />
@@ -133,6 +119,21 @@
               <mxPoint x="1010" y="360" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FODAeYh0XmRj7aYC-evt-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="757" y="910" width="250" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-40" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Docker container&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;vkontakte bot&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=0;" parent="FODAeYh0XmRj7aYC-evt-27" vertex="1">
+          <mxGeometry width="250" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-41" value="&lt;div align=&quot;center&quot;&gt;Node,js&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;" parent="FODAeYh0XmRj7aYC-evt-27" vertex="1">
+          <mxGeometry x="41.67000000000007" y="200" width="168.33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-42" value="&lt;div align=&quot;center&quot;&gt;Typescript&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;" parent="FODAeYh0XmRj7aYC-evt-27" vertex="1">
+          <mxGeometry x="41.67000000000007" y="160" width="168.33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FvaH8JaBpIbHw_S8jCiK-43" value="vkio" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;" parent="FODAeYh0XmRj7aYC-evt-27" vertex="1">
+          <mxGeometry x="41.67000000000007" y="120" width="168.33" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
